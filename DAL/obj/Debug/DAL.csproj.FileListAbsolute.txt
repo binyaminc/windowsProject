@@ -1,0 +1,2154 @@
+C:\Users\kofler\source\repos\DAL\DAL\bin\Debug\DAL.dll
+C:\Users\kofler\source\repos\DAL\DAL\bin\Debug\DAL.pdb
+C:\Users\kofler\source\repos\DAL\DAL\bin\Debug\BE.dll
+C:\Users\kofler\source\repos\DAL\DAL\bin\Debug\BE.pdb
+C:\Users\kofler\source\repos\DAL\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\kofler\source\repos\DAL\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\kofler\source\repos\DAL\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\kofler\source\repos\DAL\DAL\obj\Debug\DAL.dll
+C:\Users\kofler\source\repos\DAL\DAL\obj\Debug\DAL.pdb
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\obj\Debug\DAL.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\obj\Debug\DAL.pdb
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\DAL.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\DAL.pdb
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\netstandard.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.AppContext.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Collections.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Collections.Specialized.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.ComponentModel.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Console.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Data.Common.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Globalization.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.IO.Compression.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.IO.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.IO.FileSystem.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.IO.Pipes.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Linq.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Linq.Expressions.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Linq.Parallel.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Linq.Queryable.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Net.Http.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Net.NameResolution.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Net.Ping.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Net.Primitives.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Net.Requests.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Net.Security.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Net.Sockets.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Net.WebSockets.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.ObjectModel.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Reflection.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Resources.Reader.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Resources.Writer.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Runtime.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Runtime.Handles.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Security.Claims.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Security.Principal.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Security.SecureString.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Text.Encoding.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Threading.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Threading.Tasks.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Threading.Thread.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Threading.Timer.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.ValueTuple.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Xml.XDocument.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Xml.XPath.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\BE.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\DS.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\BE.pdb
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\bin\Debug\DS.pdb
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DAL\obj\Debug\DAL.csproj.CopyComplete
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\DAL.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\DAL.pdb
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\Microsoft.Win32.Primitives.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\netstandard.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.AppContext.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Collections.Concurrent.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Collections.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Collections.NonGeneric.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Collections.Specialized.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.ComponentModel.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.ComponentModel.Primitives.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.ComponentModel.TypeConverter.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Console.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Data.Common.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.Contracts.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.Debug.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.Process.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.StackTrace.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.Tools.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.TraceSource.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.Tracing.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Drawing.Primitives.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Dynamic.Runtime.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Globalization.Calendars.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Globalization.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Globalization.Extensions.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.IO.Compression.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.IO.Compression.ZipFile.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.IO.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.IO.FileSystem.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.IO.FileSystem.Primitives.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.IO.FileSystem.Watcher.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.IO.IsolatedStorage.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.IO.MemoryMappedFiles.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.IO.Pipes.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Linq.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Linq.Expressions.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Linq.Parallel.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Linq.Queryable.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Net.Http.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Net.NameResolution.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Net.NetworkInformation.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Net.Ping.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Net.Primitives.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Net.Requests.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Net.Security.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Net.Sockets.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Net.WebHeaderCollection.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Net.WebSockets.Client.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Net.WebSockets.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.ObjectModel.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Reflection.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Reflection.Extensions.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Reflection.Primitives.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Resources.Reader.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Resources.ResourceManager.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Resources.Writer.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Runtime.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Runtime.Extensions.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Runtime.Handles.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Runtime.InteropServices.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Runtime.Numerics.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Runtime.Serialization.Formatters.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Runtime.Serialization.Json.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Runtime.Serialization.Primitives.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Runtime.Serialization.Xml.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Security.Claims.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Security.Cryptography.Algorithms.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Security.Cryptography.Csp.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Security.Cryptography.Encoding.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Security.Cryptography.Primitives.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Security.Principal.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Security.SecureString.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Text.Encoding.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Text.Encoding.Extensions.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Text.RegularExpressions.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Threading.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Threading.Overlapped.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Threading.Tasks.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Threading.Tasks.Parallel.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Threading.Thread.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Threading.ThreadPool.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Threading.Timer.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.ValueTuple.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Xml.ReaderWriter.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Xml.XDocument.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Xml.XmlDocument.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Xml.XmlSerializer.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Xml.XPath.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\System.Xml.XPath.XDocument.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\BE.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\DS.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\BE.pdb
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\bin\Debug\DS.pdb
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\obj\Debug\DAL.csproj.CopyComplete
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\obj\Debug\DAL.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DAL\obj\Debug\DAL.pdb
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\DAL.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\DAL.pdb
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\netstandard.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.AppContext.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Collections.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Collections.Specialized.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.ComponentModel.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Console.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Data.Common.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Globalization.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.IO.Compression.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.IO.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.IO.FileSystem.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.IO.Pipes.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Linq.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Linq.Expressions.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Linq.Parallel.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Linq.Queryable.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Net.Http.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Net.NameResolution.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Net.Ping.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Net.Primitives.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Net.Requests.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Net.Security.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Net.Sockets.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Net.WebSockets.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.ObjectModel.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Reflection.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Resources.Reader.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Resources.Writer.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Runtime.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Runtime.Handles.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Security.Claims.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Security.Principal.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Security.SecureString.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Text.Encoding.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Threading.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Threading.Tasks.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Threading.Thread.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Threading.Timer.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.ValueTuple.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Xml.XDocument.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Xml.XPath.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\BE.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\DS.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\BE.pdb
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\bin\Debug\DS.pdb
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\obj\Debug\DAL.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DAL\obj\Debug\DAL.pdb
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\DAL.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\DAL.pdb
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\netstandard.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.AppContext.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Collections.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Collections.Specialized.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.ComponentModel.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Console.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Data.Common.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Globalization.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.IO.Compression.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.IO.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.IO.FileSystem.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.IO.Pipes.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Linq.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Linq.Expressions.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Linq.Parallel.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Linq.Queryable.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Net.Http.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Net.NameResolution.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Net.Ping.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Net.Primitives.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Net.Requests.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Net.Security.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Net.Sockets.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Net.WebSockets.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.ObjectModel.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Reflection.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Resources.Reader.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Resources.Writer.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Runtime.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Runtime.Handles.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Security.Claims.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Security.Principal.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Security.SecureString.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Text.Encoding.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Threading.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Threading.Tasks.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Threading.Thread.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Threading.Timer.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.ValueTuple.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Xml.XDocument.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Xml.XPath.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\BE.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\DS.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\BE.pdb
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\bin\Debug\DS.pdb
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\obj\Debug\DAL.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DAL\obj\Debug\DAL.pdb
+E:\orig\source\repos\DAL\DAL\bin\Debug\DAL.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\DAL.pdb
+E:\orig\source\repos\DAL\DAL\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\netstandard.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.AppContext.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Collections.Concurrent.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Collections.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Collections.NonGeneric.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Collections.Specialized.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.ComponentModel.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.ComponentModel.Primitives.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.ComponentModel.TypeConverter.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Console.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Data.Common.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.Contracts.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.Debug.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.Process.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.Tools.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.TraceSource.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.Tracing.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Drawing.Primitives.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Dynamic.Runtime.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Globalization.Calendars.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Globalization.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Globalization.Extensions.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.IO.Compression.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.IO.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.IO.FileSystem.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.IO.FileSystem.Watcher.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.IO.IsolatedStorage.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.IO.MemoryMappedFiles.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.IO.Pipes.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Linq.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Linq.Expressions.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Linq.Parallel.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Linq.Queryable.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Net.Http.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Net.NameResolution.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Net.NetworkInformation.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Net.Ping.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Net.Primitives.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Net.Requests.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Net.Security.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Net.Sockets.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Net.WebHeaderCollection.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Net.WebSockets.Client.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Net.WebSockets.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.ObjectModel.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Reflection.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Reflection.Extensions.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Reflection.Primitives.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Resources.Reader.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Resources.ResourceManager.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Resources.Writer.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Runtime.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Runtime.Extensions.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Runtime.Handles.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Runtime.InteropServices.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Runtime.Numerics.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Runtime.Serialization.Formatters.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Runtime.Serialization.Json.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Runtime.Serialization.Primitives.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Runtime.Serialization.Xml.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Security.Claims.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Security.Cryptography.Csp.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Security.Principal.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Security.SecureString.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Text.Encoding.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Text.Encoding.Extensions.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Text.RegularExpressions.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Threading.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Threading.Overlapped.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Threading.Tasks.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Threading.Tasks.Parallel.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Threading.Thread.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Threading.ThreadPool.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Threading.Timer.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.ValueTuple.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Xml.ReaderWriter.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Xml.XDocument.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Xml.XmlDocument.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Xml.XmlSerializer.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Xml.XPath.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\BE.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\DS.dll
+E:\orig\source\repos\DAL\DAL\bin\Debug\BE.pdb
+E:\orig\source\repos\DAL\DAL\bin\Debug\DS.pdb
+E:\orig\source\repos\DAL\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+E:\orig\source\repos\DAL\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\orig\source\repos\DAL\DAL\obj\Debug\DAL.dll
+E:\orig\source\repos\DAL\DAL\obj\Debug\DAL.pdb
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\DAL.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\DAL.pdb
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\netstandard.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.AppContext.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Collections.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Collections.Specialized.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.ComponentModel.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Console.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Data.Common.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Globalization.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.IO.Compression.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.IO.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.IO.FileSystem.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.IO.Pipes.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Linq.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Linq.Expressions.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Linq.Parallel.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Linq.Queryable.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Net.Http.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Net.NameResolution.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Net.Ping.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Net.Primitives.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Net.Requests.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Net.Security.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Net.Sockets.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Net.WebSockets.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.ObjectModel.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Reflection.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Resources.Reader.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Resources.Writer.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Runtime.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Runtime.Handles.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Security.Claims.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Security.Principal.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Security.SecureString.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Text.Encoding.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Threading.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Threading.Tasks.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Threading.Thread.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Threading.Timer.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.ValueTuple.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Xml.XDocument.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Xml.XPath.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\BE.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\DS.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\BE.pdb
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\bin\Debug\DS.pdb
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\obj\Debug\DAL.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DAL\obj\Debug\DAL.pdb
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\DAL.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\DAL.pdb
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\netstandard.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.AppContext.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Collections.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Collections.Specialized.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.ComponentModel.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Console.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Data.Common.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Globalization.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.IO.Compression.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.IO.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.IO.FileSystem.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.IO.Pipes.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Linq.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Linq.Expressions.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Linq.Parallel.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Linq.Queryable.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Net.Http.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Net.NameResolution.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Net.Ping.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Net.Primitives.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Net.Requests.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Net.Security.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Net.Sockets.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Net.WebSockets.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.ObjectModel.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Reflection.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Resources.Reader.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Resources.Writer.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Runtime.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Runtime.Handles.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Security.Claims.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Security.Principal.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Security.SecureString.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Text.Encoding.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Threading.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Threading.Tasks.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Threading.Thread.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Threading.Timer.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.ValueTuple.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Xml.XDocument.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Xml.XPath.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\BE.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\DS.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\BE.pdb
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\bin\Debug\DS.pdb
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\obj\Debug\DAL.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DAL\obj\Debug\DAL.pdb
+F:\orig\source\repos\DAL\DAL\bin\Debug\DAL.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\DAL.pdb
+F:\orig\source\repos\DAL\DAL\bin\Debug\Microsoft.Win32.Primitives.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\netstandard.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.AppContext.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Collections.Concurrent.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Collections.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Collections.NonGeneric.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Collections.Specialized.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.ComponentModel.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.ComponentModel.Primitives.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.ComponentModel.TypeConverter.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Console.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Data.Common.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.Contracts.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.Debug.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.Process.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.StackTrace.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.Tools.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.TraceSource.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.Tracing.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Drawing.Primitives.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Dynamic.Runtime.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Globalization.Calendars.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Globalization.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Globalization.Extensions.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.IO.Compression.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.IO.Compression.ZipFile.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.IO.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.IO.FileSystem.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.IO.FileSystem.Primitives.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.IO.FileSystem.Watcher.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.IO.IsolatedStorage.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.IO.MemoryMappedFiles.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.IO.Pipes.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Linq.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Linq.Expressions.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Linq.Parallel.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Linq.Queryable.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Net.Http.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Net.NameResolution.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Net.NetworkInformation.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Net.Ping.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Net.Primitives.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Net.Requests.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Net.Security.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Net.Sockets.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Net.WebHeaderCollection.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Net.WebSockets.Client.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Net.WebSockets.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.ObjectModel.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Reflection.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Reflection.Extensions.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Reflection.Primitives.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Resources.Reader.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Resources.ResourceManager.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Resources.Writer.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Runtime.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Runtime.Extensions.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Runtime.Handles.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Runtime.InteropServices.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Runtime.Numerics.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Runtime.Serialization.Formatters.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Runtime.Serialization.Json.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Runtime.Serialization.Primitives.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Runtime.Serialization.Xml.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Security.Claims.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Security.Cryptography.Algorithms.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Security.Cryptography.Csp.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Security.Cryptography.Encoding.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Security.Cryptography.Primitives.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Security.Principal.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Security.SecureString.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Text.Encoding.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Text.Encoding.Extensions.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Text.RegularExpressions.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Threading.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Threading.Overlapped.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Threading.Tasks.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Threading.Tasks.Parallel.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Threading.Thread.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Threading.ThreadPool.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Threading.Timer.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.ValueTuple.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Xml.ReaderWriter.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Xml.XDocument.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Xml.XmlDocument.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Xml.XmlSerializer.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Xml.XPath.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\System.Xml.XPath.XDocument.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\BE.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\DS.dll
+F:\orig\source\repos\DAL\DAL\bin\Debug\BE.pdb
+F:\orig\source\repos\DAL\DAL\bin\Debug\DS.pdb
+F:\orig\source\repos\DAL\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+F:\orig\source\repos\DAL\DAL\obj\Debug\DAL.csproj.CopyComplete
+F:\orig\source\repos\DAL\DAL\obj\Debug\DAL.dll
+F:\orig\source\repos\DAL\DAL\obj\Debug\DAL.pdb
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\DAL.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\DAL.pdb
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\netstandard.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.AppContext.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Collections.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.ComponentModel.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Console.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Data.Common.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Globalization.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.IO.Compression.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.IO.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.IO.Pipes.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Linq.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Net.Http.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Net.Ping.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Net.Primitives.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Net.Requests.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Net.Security.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Net.Sockets.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.ObjectModel.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Reflection.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Resources.Reader.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Resources.Writer.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Runtime.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Security.Claims.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Security.Principal.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Security.SecureString.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Text.Encoding.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Threading.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Threading.Thread.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Threading.Timer.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.ValueTuple.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Xml.XPath.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\BE.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\DS.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\BE.pdb
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\bin\Debug\DS.pdb
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\obj\Debug\DAL.dll
+C:\Users\Benjemin\Desktop\orig\source\repos\DAL\DAL\obj\Debug\DAL.pdb
+F:\orig2\source\repos\DAL\DAL\bin\Debug\DAL.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\DAL.pdb
+F:\orig2\source\repos\DAL\DAL\bin\Debug\Microsoft.Win32.Primitives.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\netstandard.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.AppContext.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Collections.Concurrent.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Collections.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Collections.NonGeneric.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Collections.Specialized.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.ComponentModel.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.ComponentModel.Primitives.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.ComponentModel.TypeConverter.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Console.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Data.Common.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.Contracts.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.Debug.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.Process.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.StackTrace.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.Tools.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.TraceSource.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.Tracing.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Drawing.Primitives.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Dynamic.Runtime.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Globalization.Calendars.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Globalization.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Globalization.Extensions.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.IO.Compression.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.IO.Compression.ZipFile.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.IO.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.IO.FileSystem.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.IO.FileSystem.Primitives.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.IO.FileSystem.Watcher.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.IO.IsolatedStorage.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.IO.MemoryMappedFiles.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.IO.Pipes.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Linq.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Linq.Expressions.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Linq.Parallel.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Linq.Queryable.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Net.Http.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Net.NameResolution.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Net.NetworkInformation.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Net.Ping.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Net.Primitives.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Net.Requests.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Net.Security.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Net.Sockets.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Net.WebHeaderCollection.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Net.WebSockets.Client.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Net.WebSockets.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.ObjectModel.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Reflection.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Reflection.Extensions.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Reflection.Primitives.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Resources.Reader.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Resources.ResourceManager.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Resources.Writer.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Runtime.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Runtime.Extensions.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Runtime.Handles.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Runtime.InteropServices.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Runtime.Numerics.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Runtime.Serialization.Formatters.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Runtime.Serialization.Json.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Runtime.Serialization.Primitives.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Runtime.Serialization.Xml.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Security.Claims.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Security.Cryptography.Algorithms.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Security.Cryptography.Csp.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Security.Cryptography.Encoding.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Security.Cryptography.Primitives.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Security.Principal.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Security.SecureString.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Text.Encoding.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Text.Encoding.Extensions.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Text.RegularExpressions.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Threading.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Threading.Overlapped.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Threading.Tasks.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Threading.Tasks.Parallel.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Threading.Thread.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Threading.ThreadPool.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Threading.Timer.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.ValueTuple.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Xml.ReaderWriter.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Xml.XDocument.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Xml.XmlDocument.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Xml.XmlSerializer.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Xml.XPath.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\System.Xml.XPath.XDocument.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\BE.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\DS.dll
+F:\orig2\source\repos\DAL\DAL\bin\Debug\BE.pdb
+F:\orig2\source\repos\DAL\DAL\bin\Debug\DS.pdb
+F:\orig2\source\repos\DAL\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+F:\orig2\source\repos\DAL\DAL\obj\Debug\DAL.csproj.CopyComplete
+F:\orig2\source\repos\DAL\DAL\obj\Debug\DAL.dll
+F:\orig2\source\repos\DAL\DAL\obj\Debug\DAL.pdb
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\DAL.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\DAL.pdb
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\netstandard.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.AppContext.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Collections.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Collections.Specialized.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.ComponentModel.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Console.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Data.Common.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Globalization.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.IO.Compression.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.IO.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.IO.FileSystem.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.IO.Pipes.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Linq.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Linq.Expressions.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Linq.Parallel.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Linq.Queryable.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Net.Http.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Net.NameResolution.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Net.Ping.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Net.Primitives.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Net.Requests.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Net.Security.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Net.Sockets.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Net.WebSockets.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.ObjectModel.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Reflection.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Resources.Reader.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Resources.Writer.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Runtime.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Runtime.Handles.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Security.Claims.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Security.Principal.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Security.SecureString.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Text.Encoding.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Threading.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Threading.Tasks.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Threading.Thread.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Threading.Timer.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.ValueTuple.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Xml.XDocument.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Xml.XPath.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\BE.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\DS.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\BE.pdb
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\bin\Debug\DS.pdb
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\obj\Debug\DAL.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DAL\obj\Debug\DAL.pdb
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\DAL.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\DAL.pdb
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\netstandard.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.AppContext.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Collections.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.ComponentModel.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Console.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Data.Common.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Globalization.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.IO.Compression.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.IO.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.IO.Pipes.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Linq.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Net.Http.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Net.Ping.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Net.Primitives.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Net.Requests.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Net.Security.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Net.Sockets.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.ObjectModel.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Reflection.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Resources.Reader.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Resources.Writer.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Runtime.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Security.Claims.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Security.Principal.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Security.SecureString.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Text.Encoding.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Threading.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Threading.Thread.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Threading.Timer.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.ValueTuple.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Xml.XPath.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\BE.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\DS.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\BE.pdb
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\DS.pdb
+C:\Users\Benjemin\Desktop\TheProject\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Benjemin\Desktop\TheProject\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Benjemin\Desktop\TheProject\DAL\obj\Debug\DAL.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\obj\Debug\DAL.pdb
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\Exceptions.dll
+C:\Users\Benjemin\Desktop\TheProject\DAL\bin\Debug\Exceptions.pdb
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\DAL.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\DAL.pdb
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\netstandard.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.AppContext.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Collections.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Collections.Specialized.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.ComponentModel.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Console.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Data.Common.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Globalization.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.IO.Compression.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.IO.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.IO.FileSystem.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.IO.Pipes.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Linq.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Linq.Expressions.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Linq.Parallel.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Linq.Queryable.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Net.Http.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Net.NameResolution.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Net.Ping.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Net.Primitives.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Net.Requests.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Net.Security.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Net.Sockets.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Net.WebSockets.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.ObjectModel.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Reflection.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Resources.Reader.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Resources.Writer.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Runtime.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Runtime.Handles.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Security.Claims.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Security.Principal.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Security.SecureString.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Text.Encoding.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Threading.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Threading.Tasks.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Threading.Thread.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Threading.Timer.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.ValueTuple.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Xml.XDocument.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Xml.XPath.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\BE.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\DS.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\Exceptions.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\BE.pdb
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\DS.pdb
+C:\Users\bicohen\Downloads\TheProject\DAL\bin\Debug\Exceptions.pdb
+C:\Users\bicohen\Downloads\TheProject\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\bicohen\Downloads\TheProject\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\bicohen\Downloads\TheProject\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\bicohen\Downloads\TheProject\DAL\obj\Debug\DAL.dll
+C:\Users\bicohen\Downloads\TheProject\DAL\obj\Debug\DAL.pdb
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\DAL.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\DAL.pdb
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\Microsoft.Win32.Primitives.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\netstandard.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.AppContext.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Collections.Concurrent.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Collections.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Collections.NonGeneric.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Collections.Specialized.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.ComponentModel.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.ComponentModel.Primitives.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.ComponentModel.TypeConverter.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Console.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Data.Common.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Diagnostics.Contracts.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Diagnostics.Debug.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Diagnostics.Process.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Diagnostics.StackTrace.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Diagnostics.Tools.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Diagnostics.TraceSource.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Diagnostics.Tracing.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Drawing.Primitives.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Dynamic.Runtime.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Globalization.Calendars.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Globalization.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Globalization.Extensions.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.IO.Compression.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.IO.Compression.ZipFile.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.IO.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.IO.FileSystem.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.IO.FileSystem.Primitives.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.IO.FileSystem.Watcher.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.IO.IsolatedStorage.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.IO.MemoryMappedFiles.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.IO.Pipes.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Linq.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Linq.Expressions.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Linq.Parallel.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Linq.Queryable.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Net.Http.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Net.NameResolution.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Net.NetworkInformation.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Net.Ping.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Net.Primitives.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Net.Requests.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Net.Security.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Net.Sockets.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Net.WebHeaderCollection.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Net.WebSockets.Client.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Net.WebSockets.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.ObjectModel.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Reflection.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Reflection.Extensions.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Reflection.Primitives.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Resources.Reader.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Resources.ResourceManager.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Resources.Writer.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Runtime.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Runtime.Extensions.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Runtime.Handles.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Runtime.InteropServices.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Runtime.Numerics.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Runtime.Serialization.Formatters.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Runtime.Serialization.Json.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Runtime.Serialization.Primitives.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Runtime.Serialization.Xml.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Security.Claims.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Security.Cryptography.Algorithms.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Security.Cryptography.Csp.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Security.Cryptography.Encoding.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Security.Cryptography.Primitives.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Security.Principal.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Security.SecureString.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Text.Encoding.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Text.Encoding.Extensions.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Text.RegularExpressions.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Threading.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Threading.Overlapped.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Threading.Tasks.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Threading.Tasks.Parallel.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Threading.Thread.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Threading.ThreadPool.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Threading.Timer.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.ValueTuple.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Xml.ReaderWriter.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Xml.XDocument.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Xml.XmlDocument.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Xml.XmlSerializer.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Xml.XPath.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\System.Xml.XPath.XDocument.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\BE.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\DS.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\Exceptions.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\BE.pdb
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\DS.pdb
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\bin\Debug\Exceptions.pdb
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\obj\Debug\DAL.csproj.CopyComplete
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\obj\Debug\DAL.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DAL\obj\Debug\DAL.pdb
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\DAL.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\DAL.pdb
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\netstandard.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.AppContext.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Collections.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Collections.Specialized.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.ComponentModel.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Console.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Data.Common.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Globalization.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.IO.Compression.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.IO.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.IO.FileSystem.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.IO.Pipes.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Linq.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Linq.Expressions.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Linq.Parallel.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Linq.Queryable.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Net.Http.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Net.NameResolution.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Net.Ping.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Net.Primitives.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Net.Requests.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Net.Security.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Net.Sockets.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Net.WebSockets.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.ObjectModel.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Reflection.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Resources.Reader.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Resources.Writer.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Runtime.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Runtime.Handles.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Security.Claims.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Security.Principal.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Security.SecureString.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Text.Encoding.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Threading.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Threading.Tasks.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Threading.Thread.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Threading.Timer.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.ValueTuple.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Xml.XDocument.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Xml.XPath.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\BE.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\DS.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\Exceptions.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\BE.pdb
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\DS.pdb
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\bin\Debug\Exceptions.pdb
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\obj\Debug\DAL.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DAL\obj\Debug\DAL.pdb
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\DAL.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\DAL.pdb
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\netstandard.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.AppContext.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Collections.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.ComponentModel.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Console.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Data.Common.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Globalization.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.IO.Compression.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.IO.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.IO.Pipes.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Linq.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Net.Http.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Net.Ping.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Net.Primitives.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Net.Requests.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Net.Security.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Net.Sockets.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.ObjectModel.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Reflection.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Resources.Reader.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Resources.Writer.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Runtime.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Security.Claims.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Security.Principal.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Security.SecureString.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Text.Encoding.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Threading.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Threading.Thread.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Threading.Timer.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.ValueTuple.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Xml.XPath.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\BE.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\DS.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\Exceptions.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\BE.pdb
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\DS.pdb
+C:\Users\Benjemin\Downloads\TheProject\DAL\bin\Debug\Exceptions.pdb
+C:\Users\Benjemin\Downloads\TheProject\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Benjemin\Downloads\TheProject\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Benjemin\Downloads\TheProject\DAL\obj\Debug\DAL.dll
+C:\Users\Benjemin\Downloads\TheProject\DAL\obj\Debug\DAL.pdb
+E:\TheProject\DAL\bin\Debug\DAL.dll
+E:\TheProject\DAL\bin\Debug\DAL.pdb
+E:\TheProject\DAL\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\TheProject\DAL\bin\Debug\netstandard.dll
+E:\TheProject\DAL\bin\Debug\System.AppContext.dll
+E:\TheProject\DAL\bin\Debug\System.Collections.Concurrent.dll
+E:\TheProject\DAL\bin\Debug\System.Collections.dll
+E:\TheProject\DAL\bin\Debug\System.Collections.NonGeneric.dll
+E:\TheProject\DAL\bin\Debug\System.Collections.Specialized.dll
+E:\TheProject\DAL\bin\Debug\System.ComponentModel.dll
+E:\TheProject\DAL\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\TheProject\DAL\bin\Debug\System.ComponentModel.Primitives.dll
+E:\TheProject\DAL\bin\Debug\System.ComponentModel.TypeConverter.dll
+E:\TheProject\DAL\bin\Debug\System.Console.dll
+E:\TheProject\DAL\bin\Debug\System.Data.Common.dll
+E:\TheProject\DAL\bin\Debug\System.Diagnostics.Contracts.dll
+E:\TheProject\DAL\bin\Debug\System.Diagnostics.Debug.dll
+E:\TheProject\DAL\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+E:\TheProject\DAL\bin\Debug\System.Diagnostics.Process.dll
+E:\TheProject\DAL\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\TheProject\DAL\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+E:\TheProject\DAL\bin\Debug\System.Diagnostics.Tools.dll
+E:\TheProject\DAL\bin\Debug\System.Diagnostics.TraceSource.dll
+E:\TheProject\DAL\bin\Debug\System.Diagnostics.Tracing.dll
+E:\TheProject\DAL\bin\Debug\System.Drawing.Primitives.dll
+E:\TheProject\DAL\bin\Debug\System.Dynamic.Runtime.dll
+E:\TheProject\DAL\bin\Debug\System.Globalization.Calendars.dll
+E:\TheProject\DAL\bin\Debug\System.Globalization.dll
+E:\TheProject\DAL\bin\Debug\System.Globalization.Extensions.dll
+E:\TheProject\DAL\bin\Debug\System.IO.Compression.dll
+E:\TheProject\DAL\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\TheProject\DAL\bin\Debug\System.IO.dll
+E:\TheProject\DAL\bin\Debug\System.IO.FileSystem.dll
+E:\TheProject\DAL\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+E:\TheProject\DAL\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\TheProject\DAL\bin\Debug\System.IO.FileSystem.Watcher.dll
+E:\TheProject\DAL\bin\Debug\System.IO.IsolatedStorage.dll
+E:\TheProject\DAL\bin\Debug\System.IO.MemoryMappedFiles.dll
+E:\TheProject\DAL\bin\Debug\System.IO.Pipes.dll
+E:\TheProject\DAL\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\TheProject\DAL\bin\Debug\System.Linq.dll
+E:\TheProject\DAL\bin\Debug\System.Linq.Expressions.dll
+E:\TheProject\DAL\bin\Debug\System.Linq.Parallel.dll
+E:\TheProject\DAL\bin\Debug\System.Linq.Queryable.dll
+E:\TheProject\DAL\bin\Debug\System.Net.Http.dll
+E:\TheProject\DAL\bin\Debug\System.Net.NameResolution.dll
+E:\TheProject\DAL\bin\Debug\System.Net.NetworkInformation.dll
+E:\TheProject\DAL\bin\Debug\System.Net.Ping.dll
+E:\TheProject\DAL\bin\Debug\System.Net.Primitives.dll
+E:\TheProject\DAL\bin\Debug\System.Net.Requests.dll
+E:\TheProject\DAL\bin\Debug\System.Net.Security.dll
+E:\TheProject\DAL\bin\Debug\System.Net.Sockets.dll
+E:\TheProject\DAL\bin\Debug\System.Net.WebHeaderCollection.dll
+E:\TheProject\DAL\bin\Debug\System.Net.WebSockets.Client.dll
+E:\TheProject\DAL\bin\Debug\System.Net.WebSockets.dll
+E:\TheProject\DAL\bin\Debug\System.ObjectModel.dll
+E:\TheProject\DAL\bin\Debug\System.Reflection.dll
+E:\TheProject\DAL\bin\Debug\System.Reflection.Extensions.dll
+E:\TheProject\DAL\bin\Debug\System.Reflection.Primitives.dll
+E:\TheProject\DAL\bin\Debug\System.Resources.Reader.dll
+E:\TheProject\DAL\bin\Debug\System.Resources.ResourceManager.dll
+E:\TheProject\DAL\bin\Debug\System.Resources.Writer.dll
+E:\TheProject\DAL\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+E:\TheProject\DAL\bin\Debug\System.Runtime.dll
+E:\TheProject\DAL\bin\Debug\System.Runtime.Extensions.dll
+E:\TheProject\DAL\bin\Debug\System.Runtime.Handles.dll
+E:\TheProject\DAL\bin\Debug\System.Runtime.InteropServices.dll
+E:\TheProject\DAL\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\TheProject\DAL\bin\Debug\System.Runtime.Numerics.dll
+E:\TheProject\DAL\bin\Debug\System.Runtime.Serialization.Formatters.dll
+E:\TheProject\DAL\bin\Debug\System.Runtime.Serialization.Json.dll
+E:\TheProject\DAL\bin\Debug\System.Runtime.Serialization.Primitives.dll
+E:\TheProject\DAL\bin\Debug\System.Runtime.Serialization.Xml.dll
+E:\TheProject\DAL\bin\Debug\System.Security.Claims.dll
+E:\TheProject\DAL\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\TheProject\DAL\bin\Debug\System.Security.Cryptography.Csp.dll
+E:\TheProject\DAL\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\TheProject\DAL\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\TheProject\DAL\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\TheProject\DAL\bin\Debug\System.Security.Principal.dll
+E:\TheProject\DAL\bin\Debug\System.Security.SecureString.dll
+E:\TheProject\DAL\bin\Debug\System.Text.Encoding.dll
+E:\TheProject\DAL\bin\Debug\System.Text.Encoding.Extensions.dll
+E:\TheProject\DAL\bin\Debug\System.Text.RegularExpressions.dll
+E:\TheProject\DAL\bin\Debug\System.Threading.dll
+E:\TheProject\DAL\bin\Debug\System.Threading.Overlapped.dll
+E:\TheProject\DAL\bin\Debug\System.Threading.Tasks.dll
+E:\TheProject\DAL\bin\Debug\System.Threading.Tasks.Parallel.dll
+E:\TheProject\DAL\bin\Debug\System.Threading.Thread.dll
+E:\TheProject\DAL\bin\Debug\System.Threading.ThreadPool.dll
+E:\TheProject\DAL\bin\Debug\System.Threading.Timer.dll
+E:\TheProject\DAL\bin\Debug\System.ValueTuple.dll
+E:\TheProject\DAL\bin\Debug\System.Xml.ReaderWriter.dll
+E:\TheProject\DAL\bin\Debug\System.Xml.XDocument.dll
+E:\TheProject\DAL\bin\Debug\System.Xml.XmlDocument.dll
+E:\TheProject\DAL\bin\Debug\System.Xml.XmlSerializer.dll
+E:\TheProject\DAL\bin\Debug\System.Xml.XPath.dll
+E:\TheProject\DAL\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\TheProject\DAL\bin\Debug\BE.dll
+E:\TheProject\DAL\bin\Debug\DS.dll
+E:\TheProject\DAL\bin\Debug\Exceptions.dll
+E:\TheProject\DAL\bin\Debug\BE.pdb
+E:\TheProject\DAL\bin\Debug\DS.pdb
+E:\TheProject\DAL\bin\Debug\Exceptions.pdb
+E:\TheProject\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+E:\TheProject\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\TheProject\DAL\obj\Debug\DAL.dll
+E:\TheProject\DAL\obj\Debug\DAL.pdb
+F:\TheProject\DAL\bin\Debug\DAL.dll
+F:\TheProject\DAL\bin\Debug\DAL.pdb
+F:\TheProject\DAL\bin\Debug\Microsoft.Win32.Primitives.dll
+F:\TheProject\DAL\bin\Debug\netstandard.dll
+F:\TheProject\DAL\bin\Debug\System.AppContext.dll
+F:\TheProject\DAL\bin\Debug\System.Collections.Concurrent.dll
+F:\TheProject\DAL\bin\Debug\System.Collections.dll
+F:\TheProject\DAL\bin\Debug\System.Collections.NonGeneric.dll
+F:\TheProject\DAL\bin\Debug\System.Collections.Specialized.dll
+F:\TheProject\DAL\bin\Debug\System.ComponentModel.dll
+F:\TheProject\DAL\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+F:\TheProject\DAL\bin\Debug\System.ComponentModel.Primitives.dll
+F:\TheProject\DAL\bin\Debug\System.ComponentModel.TypeConverter.dll
+F:\TheProject\DAL\bin\Debug\System.Console.dll
+F:\TheProject\DAL\bin\Debug\System.Data.Common.dll
+F:\TheProject\DAL\bin\Debug\System.Diagnostics.Contracts.dll
+F:\TheProject\DAL\bin\Debug\System.Diagnostics.Debug.dll
+F:\TheProject\DAL\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+F:\TheProject\DAL\bin\Debug\System.Diagnostics.Process.dll
+F:\TheProject\DAL\bin\Debug\System.Diagnostics.StackTrace.dll
+F:\TheProject\DAL\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+F:\TheProject\DAL\bin\Debug\System.Diagnostics.Tools.dll
+F:\TheProject\DAL\bin\Debug\System.Diagnostics.TraceSource.dll
+F:\TheProject\DAL\bin\Debug\System.Diagnostics.Tracing.dll
+F:\TheProject\DAL\bin\Debug\System.Drawing.Primitives.dll
+F:\TheProject\DAL\bin\Debug\System.Dynamic.Runtime.dll
+F:\TheProject\DAL\bin\Debug\System.Globalization.Calendars.dll
+F:\TheProject\DAL\bin\Debug\System.Globalization.dll
+F:\TheProject\DAL\bin\Debug\System.Globalization.Extensions.dll
+F:\TheProject\DAL\bin\Debug\System.IO.Compression.dll
+F:\TheProject\DAL\bin\Debug\System.IO.Compression.ZipFile.dll
+F:\TheProject\DAL\bin\Debug\System.IO.dll
+F:\TheProject\DAL\bin\Debug\System.IO.FileSystem.dll
+F:\TheProject\DAL\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+F:\TheProject\DAL\bin\Debug\System.IO.FileSystem.Primitives.dll
+F:\TheProject\DAL\bin\Debug\System.IO.FileSystem.Watcher.dll
+F:\TheProject\DAL\bin\Debug\System.IO.IsolatedStorage.dll
+F:\TheProject\DAL\bin\Debug\System.IO.MemoryMappedFiles.dll
+F:\TheProject\DAL\bin\Debug\System.IO.Pipes.dll
+F:\TheProject\DAL\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+F:\TheProject\DAL\bin\Debug\System.Linq.dll
+F:\TheProject\DAL\bin\Debug\System.Linq.Expressions.dll
+F:\TheProject\DAL\bin\Debug\System.Linq.Parallel.dll
+F:\TheProject\DAL\bin\Debug\System.Linq.Queryable.dll
+F:\TheProject\DAL\bin\Debug\System.Net.Http.dll
+F:\TheProject\DAL\bin\Debug\System.Net.NameResolution.dll
+F:\TheProject\DAL\bin\Debug\System.Net.NetworkInformation.dll
+F:\TheProject\DAL\bin\Debug\System.Net.Ping.dll
+F:\TheProject\DAL\bin\Debug\System.Net.Primitives.dll
+F:\TheProject\DAL\bin\Debug\System.Net.Requests.dll
+F:\TheProject\DAL\bin\Debug\System.Net.Security.dll
+F:\TheProject\DAL\bin\Debug\System.Net.Sockets.dll
+F:\TheProject\DAL\bin\Debug\System.Net.WebHeaderCollection.dll
+F:\TheProject\DAL\bin\Debug\System.Net.WebSockets.Client.dll
+F:\TheProject\DAL\bin\Debug\System.Net.WebSockets.dll
+F:\TheProject\DAL\bin\Debug\System.ObjectModel.dll
+F:\TheProject\DAL\bin\Debug\System.Reflection.dll
+F:\TheProject\DAL\bin\Debug\System.Reflection.Extensions.dll
+F:\TheProject\DAL\bin\Debug\System.Reflection.Primitives.dll
+F:\TheProject\DAL\bin\Debug\System.Resources.Reader.dll
+F:\TheProject\DAL\bin\Debug\System.Resources.ResourceManager.dll
+F:\TheProject\DAL\bin\Debug\System.Resources.Writer.dll
+F:\TheProject\DAL\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+F:\TheProject\DAL\bin\Debug\System.Runtime.dll
+F:\TheProject\DAL\bin\Debug\System.Runtime.Extensions.dll
+F:\TheProject\DAL\bin\Debug\System.Runtime.Handles.dll
+F:\TheProject\DAL\bin\Debug\System.Runtime.InteropServices.dll
+F:\TheProject\DAL\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\TheProject\DAL\bin\Debug\System.Runtime.Numerics.dll
+F:\TheProject\DAL\bin\Debug\System.Runtime.Serialization.Formatters.dll
+F:\TheProject\DAL\bin\Debug\System.Runtime.Serialization.Json.dll
+F:\TheProject\DAL\bin\Debug\System.Runtime.Serialization.Primitives.dll
+F:\TheProject\DAL\bin\Debug\System.Runtime.Serialization.Xml.dll
+F:\TheProject\DAL\bin\Debug\System.Security.Claims.dll
+F:\TheProject\DAL\bin\Debug\System.Security.Cryptography.Algorithms.dll
+F:\TheProject\DAL\bin\Debug\System.Security.Cryptography.Csp.dll
+F:\TheProject\DAL\bin\Debug\System.Security.Cryptography.Encoding.dll
+F:\TheProject\DAL\bin\Debug\System.Security.Cryptography.Primitives.dll
+F:\TheProject\DAL\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+F:\TheProject\DAL\bin\Debug\System.Security.Principal.dll
+F:\TheProject\DAL\bin\Debug\System.Security.SecureString.dll
+F:\TheProject\DAL\bin\Debug\System.Text.Encoding.dll
+F:\TheProject\DAL\bin\Debug\System.Text.Encoding.Extensions.dll
+F:\TheProject\DAL\bin\Debug\System.Text.RegularExpressions.dll
+F:\TheProject\DAL\bin\Debug\System.Threading.dll
+F:\TheProject\DAL\bin\Debug\System.Threading.Overlapped.dll
+F:\TheProject\DAL\bin\Debug\System.Threading.Tasks.dll
+F:\TheProject\DAL\bin\Debug\System.Threading.Tasks.Parallel.dll
+F:\TheProject\DAL\bin\Debug\System.Threading.Thread.dll
+F:\TheProject\DAL\bin\Debug\System.Threading.ThreadPool.dll
+F:\TheProject\DAL\bin\Debug\System.Threading.Timer.dll
+F:\TheProject\DAL\bin\Debug\System.ValueTuple.dll
+F:\TheProject\DAL\bin\Debug\System.Xml.ReaderWriter.dll
+F:\TheProject\DAL\bin\Debug\System.Xml.XDocument.dll
+F:\TheProject\DAL\bin\Debug\System.Xml.XmlDocument.dll
+F:\TheProject\DAL\bin\Debug\System.Xml.XmlSerializer.dll
+F:\TheProject\DAL\bin\Debug\System.Xml.XPath.dll
+F:\TheProject\DAL\bin\Debug\System.Xml.XPath.XDocument.dll
+F:\TheProject\DAL\bin\Debug\BE.dll
+F:\TheProject\DAL\bin\Debug\DS.dll
+F:\TheProject\DAL\bin\Debug\Exceptions.dll
+F:\TheProject\DAL\bin\Debug\BE.pdb
+F:\TheProject\DAL\bin\Debug\DS.pdb
+F:\TheProject\DAL\bin\Debug\Exceptions.pdb
+F:\TheProject\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+F:\TheProject\DAL\obj\Debug\DAL.csproj.CopyComplete
+F:\TheProject\DAL\obj\Debug\DAL.dll
+F:\TheProject\DAL\obj\Debug\DAL.pdb
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\DAL.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\DAL.pdb
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\netstandard.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.AppContext.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Collections.Concurrent.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Collections.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Collections.NonGeneric.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Collections.Specialized.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.ComponentModel.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.ComponentModel.Primitives.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Console.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Data.Common.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Diagnostics.Contracts.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Diagnostics.Debug.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Diagnostics.Process.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Diagnostics.Tools.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Diagnostics.Tracing.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Drawing.Primitives.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Dynamic.Runtime.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Globalization.Calendars.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Globalization.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Globalization.Extensions.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.IO.Compression.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.IO.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.IO.FileSystem.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.IO.IsolatedStorage.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.IO.Pipes.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Linq.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Linq.Expressions.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Linq.Parallel.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Linq.Queryable.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Net.Http.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Net.NameResolution.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Net.NetworkInformation.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Net.Ping.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Net.Primitives.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Net.Requests.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Net.Security.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Net.Sockets.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Net.WebSockets.Client.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Net.WebSockets.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.ObjectModel.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Reflection.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Reflection.Extensions.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Reflection.Primitives.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Resources.Reader.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Resources.ResourceManager.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Resources.Writer.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Runtime.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Runtime.Extensions.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Runtime.Handles.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Runtime.InteropServices.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Runtime.Numerics.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Security.Claims.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Security.Principal.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Security.SecureString.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Text.Encoding.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Text.RegularExpressions.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Threading.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Threading.Overlapped.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Threading.Tasks.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Threading.Thread.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Threading.ThreadPool.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Threading.Timer.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.ValueTuple.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Xml.ReaderWriter.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Xml.XDocument.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Xml.XmlDocument.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Xml.XmlSerializer.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Xml.XPath.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\BE.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\DS.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\Exceptions.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\BE.pdb
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\DS.pdb
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\bin\Debug\Exceptions.pdb
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\obj\Debug\DAL.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DAL\obj\Debug\DAL.pdb
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\DAL.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\DAL.pdb
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\netstandard.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.AppContext.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Collections.Concurrent.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Collections.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Collections.NonGeneric.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Collections.Specialized.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.ComponentModel.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.ComponentModel.Primitives.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Console.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Data.Common.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Diagnostics.Contracts.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Diagnostics.Debug.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Diagnostics.Process.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Diagnostics.Tools.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Diagnostics.Tracing.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Drawing.Primitives.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Dynamic.Runtime.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Globalization.Calendars.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Globalization.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Globalization.Extensions.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.IO.Compression.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.IO.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.IO.FileSystem.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.IO.IsolatedStorage.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.IO.Pipes.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Linq.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Linq.Expressions.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Linq.Parallel.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Linq.Queryable.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Net.Http.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Net.NameResolution.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Net.NetworkInformation.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Net.Ping.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Net.Primitives.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Net.Requests.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Net.Security.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Net.Sockets.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Net.WebSockets.Client.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Net.WebSockets.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.ObjectModel.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Reflection.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Reflection.Extensions.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Reflection.Primitives.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Resources.Reader.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Resources.ResourceManager.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Resources.Writer.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Runtime.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Runtime.Extensions.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Runtime.Handles.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Runtime.InteropServices.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Runtime.Numerics.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Security.Claims.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Security.Principal.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Security.SecureString.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Text.Encoding.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Text.RegularExpressions.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Threading.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Threading.Overlapped.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Threading.Tasks.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Threading.Thread.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Threading.ThreadPool.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Threading.Timer.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.ValueTuple.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Xml.ReaderWriter.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Xml.XDocument.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Xml.XmlDocument.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Xml.XmlSerializer.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Xml.XPath.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\BE.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\DS.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\Exceptions.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\BE.pdb
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\DS.pdb
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\bin\Debug\Exceptions.pdb
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\obj\Debug\DAL.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DAL\obj\Debug\DAL.pdb

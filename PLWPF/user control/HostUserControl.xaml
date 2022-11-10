@@ -1,0 +1,55 @@
+﻿<UserControl
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:PLWPF.user_control"
+             xmlns:BE="clr-namespace:BE;assembly=BE" x:Class="PLWPF.user_control.HostUserControl"
+             mc:Ignorable="d" Height="275.41" Width="243.033" Loaded="UserControl_Loaded">
+    <UserControl.Resources>
+        <CollectionViewSource x:Key="hostViewSource" d:DesignSource="{d:DesignInstance {x:Type BE:Host}, CreateList=True}"/>
+    </UserControl.Resources>
+    <Grid>
+
+        <Grid x:Name="hostUserControlGrid" VerticalAlignment="Top" Margin="10,10,0,0" HorizontalAlignment="Left" DataContext="{StaticResource hostViewSource}">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+            <Label x:Name="bankAccountNumberLabel" VerticalAlignment="Center" Grid.Row="6" Margin="3" HorizontalAlignment="Left" Grid.Column="0" Content="Bank Account Number:"/>
+            <Label x:Name="bankAccountNumberLabel2" VerticalAlignment="Center" Grid.Row="6" Margin="3" HorizontalAlignment="Left" Grid.Column="1" Content="{Binding BankAccountNumber}"/>
+
+            <Label x:Name="collectionClearanceLabel" VerticalAlignment="Center" Grid.Row="7" Margin="3" HorizontalAlignment="Left" Grid.Column="0" Content="Collection Clearance:"/>
+            <CheckBox x:Name="collectionClearanceCheckBox2" VerticalAlignment="Center" Grid.Row="7" IsEnabled="False" Margin="3" IsChecked="{Binding CollectionClearance, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" HorizontalAlignment="Left" Grid.Column="1" Content=""/>
+
+            <Label x:Name="familyNameLabel" VerticalAlignment="Center" Grid.Row="1" Margin="3" HorizontalAlignment="Left" Grid.Column="0" Content="Family Name:"/>
+            <Label x:Name="familyNameLabel2" VerticalAlignment="Center" Grid.Row="1" Margin="3" HorizontalAlignment="Left" Grid.Column="1" Content="{Binding FamilyName}"/>
+
+            <Label x:Name="mailAddressLabel" VerticalAlignment="Center" Grid.Row="3" Margin="3" HorizontalAlignment="Left" Grid.Column="0" Content="Mail Address:"/>
+            <Label x:Name="mailAddressLabel2" VerticalAlignment="Center" Grid.Row="3" Margin="3" HorizontalAlignment="Left" Grid.Column="1" Content="{Binding MailAddress}"/>
+
+            <Label x:Name="passwordLabel" VerticalAlignment="Center" Grid.Row="4" Margin="3" HorizontalAlignment="Left" Grid.Column="0" Content="Password:"/>
+            <Label x:Name="passwordLabel2" VerticalAlignment="Center" Grid.Row="4" Margin="3" HorizontalAlignment="Left" Grid.Column="1" Content="{Binding Password}"/>
+
+            <Label x:Name="phoneNumberLabel" VerticalAlignment="Center" Grid.Row="2" Margin="3" HorizontalAlignment="Left" Grid.Column="0" Content="Phone Number:"/>
+            <Label x:Name="phoneNumberLabel2" VerticalAlignment="Center" Grid.Row="2" Margin="3" HorizontalAlignment="Left" Grid.Column="1" Content="{Binding PhoneNumber}"/>
+
+            <Label x:Name="privateNameLabel" VerticalAlignment="Center" Grid.Row="0" Margin="3" HorizontalAlignment="Left" Grid.Column="0" Content="Private Name:"/>
+            <Label x:Name="privateNameLabel2" VerticalAlignment="Center" Grid.Row="0" Margin="3" HorizontalAlignment="Left" Grid.Column="1" Content="{Binding PrivateName}"/>
+
+            <Label x:Name="bankNameLabel" VerticalAlignment="Center" Grid.Row="5" Margin="3" HorizontalAlignment="Left" Grid.Column="0" Content="Bank Name:"/>
+            <Label x:Name="bankNameLabel2" VerticalAlignment="Center" Grid.Row="5" Margin="3" HorizontalAlignment="Left" Grid.Column="1" Content="{Binding BankBranchDetails.BankName}"/>
+        </Grid>
+
+    </Grid>
+</UserControl>

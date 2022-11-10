@@ -1,0 +1,96 @@
+C:\Users\kofler\source\repos\DAL\BE\bin\Debug\BE.dll
+C:\Users\kofler\source\repos\DAL\BE\bin\Debug\BE.pdb
+C:\Users\kofler\source\repos\DAL\BE\obj\Debug\BE.csprojAssemblyReference.cache
+C:\Users\kofler\source\repos\DAL\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\kofler\source\repos\DAL\BE\obj\Debug\BE.dll
+C:\Users\kofler\source\repos\DAL\BE\obj\Debug\BE.pdb
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\BE\bin\Debug\BE.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\BE\bin\Debug\BE.pdb
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\BE\obj\Debug\BE.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\BE\obj\Debug\BE.pdb
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\BE\bin\Debug\BE.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\BE\bin\Debug\BE.pdb
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\BE\obj\Debug\BE.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\BE\obj\Debug\BE.pdb
+C:\Users\bicohen\Downloads\source\source\repos\DAL\BE\bin\Debug\BE.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\BE\bin\Debug\BE.pdb
+C:\Users\bicohen\Downloads\source\source\repos\DAL\BE\obj\Debug\BE.csprojAssemblyReference.cache
+C:\Users\bicohen\Downloads\source\source\repos\DAL\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\bicohen\Downloads\source\source\repos\DAL\BE\obj\Debug\BE.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\BE\obj\Debug\BE.pdb
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\BE\bin\Debug\BE.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\BE\bin\Debug\BE.pdb
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\BE\obj\Debug\BE.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\BE\obj\Debug\BE.pdb
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\BE\obj\Debug\BE.csprojAssemblyReference.cache
+E:\orig\source\repos\DAL\BE\bin\Debug\BE.dll
+E:\orig\source\repos\DAL\BE\bin\Debug\BE.pdb
+E:\orig\source\repos\DAL\BE\obj\Debug\BE.dll
+E:\orig\source\repos\DAL\BE\obj\Debug\BE.pdb
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\BE\bin\Debug\BE.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\BE\bin\Debug\BE.pdb
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\BE\obj\Debug\BE.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\BE\obj\Debug\BE.pdb
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\BE\bin\Debug\BE.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\BE\bin\Debug\BE.pdb
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\BE\obj\Debug\BE.csprojAssemblyReference.cache
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\BE\obj\Debug\BE.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\BE\obj\Debug\BE.pdb
+F:\orig\source\repos\DAL\BE\bin\Debug\BE.dll
+F:\orig\source\repos\DAL\BE\bin\Debug\BE.pdb
+F:\orig\source\repos\DAL\BE\obj\Debug\BE.dll
+F:\orig\source\repos\DAL\BE\obj\Debug\BE.pdb
+F:\orig2\source\repos\DAL\BE\bin\Debug\BE.dll
+F:\orig2\source\repos\DAL\BE\bin\Debug\BE.pdb
+F:\orig2\source\repos\DAL\BE\obj\Debug\BE.dll
+F:\orig2\source\repos\DAL\BE\obj\Debug\BE.pdb
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\BE\bin\Debug\BE.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\BE\bin\Debug\BE.pdb
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\BE\obj\Debug\BE.csprojAssemblyReference.cache
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\BE\obj\Debug\BE.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\BE\obj\Debug\BE.pdb
+C:\Users\Benjemin\Desktop\TheProject\BE\bin\Debug\BE.dll
+C:\Users\Benjemin\Desktop\TheProject\BE\bin\Debug\BE.pdb
+C:\Users\Benjemin\Desktop\TheProject\BE\obj\Debug\BE.csprojAssemblyReference.cache
+C:\Users\Benjemin\Desktop\TheProject\BE\obj\Debug\BE.dll
+C:\Users\Benjemin\Desktop\TheProject\BE\obj\Debug\BE.pdb
+C:\Users\bicohen\Downloads\TheProject\BE\bin\Debug\BE.dll
+C:\Users\bicohen\Downloads\TheProject\BE\bin\Debug\BE.pdb
+C:\Users\bicohen\Downloads\TheProject\BE\obj\Debug\BE.csprojAssemblyReference.cache
+C:\Users\bicohen\Downloads\TheProject\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\bicohen\Downloads\TheProject\BE\obj\Debug\BE.dll
+C:\Users\bicohen\Downloads\TheProject\BE\obj\Debug\BE.pdb
+Z:\מיני פרוייקט במערכות חלונות\TheProject\BE\bin\Debug\BE.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\BE\bin\Debug\BE.pdb
+Z:\מיני פרוייקט במערכות חלונות\TheProject\BE\obj\Debug\BE.csprojAssemblyReference.cache
+Z:\מיני פרוייקט במערכות חלונות\TheProject\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+Z:\מיני פרוייקט במערכות חלונות\TheProject\BE\obj\Debug\BE.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\BE\obj\Debug\BE.pdb
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\BE\bin\Debug\BE.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\BE\bin\Debug\BE.pdb
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\BE\obj\Debug\BE.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\BE\obj\Debug\BE.pdb
+C:\Users\Benjemin\Downloads\TheProject\BE\bin\Debug\BE.dll
+C:\Users\Benjemin\Downloads\TheProject\BE\bin\Debug\BE.pdb
+C:\Users\Benjemin\Downloads\TheProject\BE\obj\Debug\BE.csprojAssemblyReference.cache
+C:\Users\Benjemin\Downloads\TheProject\BE\obj\Debug\BE.dll
+C:\Users\Benjemin\Downloads\TheProject\BE\obj\Debug\BE.pdb
+E:\TheProject\BE\bin\Debug\BE.dll
+E:\TheProject\BE\bin\Debug\BE.pdb
+E:\TheProject\BE\obj\Debug\BE.dll
+E:\TheProject\BE\obj\Debug\BE.pdb
+E:\TheProject\BE\obj\Debug\BE.csprojAssemblyReference.cache
+D:\visual studio projects\C#_windowsProject_finalVersion\BE\bin\Debug\BE.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\BE\bin\Debug\BE.pdb
+D:\visual studio projects\C#_windowsProject_finalVersion\BE\obj\Debug\BE.csprojAssemblyReference.cache
+D:\visual studio projects\C#_windowsProject_finalVersion\BE\obj\Debug\BE.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\BE\obj\Debug\BE.pdb
+D:\visual_studio_projects\C#_windowsProject_finalVersion\BE\bin\Debug\BE.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\BE\bin\Debug\BE.pdb
+D:\visual_studio_projects\C#_windowsProject_finalVersion\BE\obj\Debug\BE.csprojAssemblyReference.cache
+D:\visual_studio_projects\C#_windowsProject_finalVersion\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+D:\visual_studio_projects\C#_windowsProject_finalVersion\BE\obj\Debug\BE.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\BE\obj\Debug\BE.pdb

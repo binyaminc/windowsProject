@@ -1,0 +1,42 @@
+﻿<Window x:Class="PLWPF.HostPersonalArea"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLWPF"
+        mc:Ignorable="d"
+        ResizeMode="CanMinimize"
+        Title="HostPersonalArea" Height="390.21" Width="656.818">
+    <Window.Resources>
+        <LinearGradientBrush x:Key="goBackLinearGradientBrush">
+            <GradientStop Color="LightSkyBlue"                     
+                          Offset="0" />
+            <GradientStop Color="LightSlateGray"                     
+                          Offset="0.5" />
+            <GradientStop Color="LightBlue"                     
+                          Offset="1" />
+        </LinearGradientBrush>
+    </Window.Resources>
+
+    <Grid>
+        <Label x:Name="hostingUnitsLabel" Content="hosting units:" HorizontalAlignment="Left" Margin="334,6,0,0" VerticalAlignment="Top" FontSize="18"/>
+        <Grid Name="ShowHostingUnit" HorizontalAlignment="Left" Height="271" Margin="240,40,0,0" VerticalAlignment="Top" Width="332">
+            <ScrollViewer HorizontalAlignment="Stretch" Height="271" VerticalAlignment="Bottom" Width="auto">
+                <StackPanel x:Name="SP" Height="auto" Width="auto"/>
+            </ScrollViewer>
+        </Grid>
+
+        <Button x:Name="DeleteCollectionClearanceButton" Content="delete CollectionClearance" HorizontalAlignment="Left" Margin="24,40,0,0" VerticalAlignment="Top" Width="156" Click="deleteCollectionClearanceButton" TabIndex="0"/>
+        <Button x:Name="addCollectionClearanceButton" Content="Add collectionClearance" HorizontalAlignment="Left" Margin="24,89,0,0" VerticalAlignment="Top" Width="156" TabIndex="1" Click="addCollectionClearnceButton"/>
+        <Button x:Name="AddHostingUnitButton" Content="Add hosting unit" HorizontalAlignment="Left" Margin="24,138,0,0" VerticalAlignment="Top" Width="156" Click="addHostingUnitButton" TabIndex="2"/>
+        <Button x:Name="UpdateHostingUnitButton" Content="Update hosting unit" HorizontalAlignment="Left" VerticalAlignment="Top" Width="156" Margin="24,191,0,0" Click="updateHostingUnitButton" TabIndex="3"/>
+        <Button x:Name="DeleteHostingUnitButton" Content="Delete hosting unit" HorizontalAlignment="Left" Margin="24,242,0,0" VerticalAlignment="Top" Width="156" RenderTransformOrigin="0.515,-0.073" Click="deleteHostingUnitButton" TabIndex="4"/>
+        <Button x:Name="OrdersButton" Content="Orders" HorizontalAlignment="Left" Margin="24,291,0,0" VerticalAlignment="Top" Width="156" RenderTransformOrigin="0.525,-0.323" Click="ordersButton" TabIndex="5"/>
+
+        
+
+
+        <Button x:Name="LogOutButton" Content="LogOut" HorizontalAlignment="Left" Margin="24,330,0,0" Background="{StaticResource goBackLinearGradientBrush}" VerticalAlignment="Top" Width="55" Height="21" Click="logOutButton" TabIndex="5"/>
+
+    </Grid>
+</Window>

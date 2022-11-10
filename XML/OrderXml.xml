@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<orders>
+  <order>
+    <GuestRequestKey>0</GuestRequestKey>
+    <HostingUnitKey>1</HostingUnitKey>
+    <OrderKey>1</OrderKey>
+    <Status>ClosedByCustomer</Status>
+    <CreateDate>2020-02-13T22:12:54.430633+02:00</CreateDate>
+    <Commission>0</Commission>
+    <SentMailDate>0001-01-01T00:00:00</SentMailDate>
+  </order>
+  <order>
+    <GuestRequestKey>0</GuestRequestKey>
+    <HostingUnitKey>1</HostingUnitKey>
+    <OrderKey>0</OrderKey>
+    <Status>ClosedCustomerUnavailability</Status>
+    <CreateDate>2020-02-13T17:46:54.1299779+02:00</CreateDate>
+    <Commission>0</Commission>
+    <SentMailDate>2020-02-13T17:48:04.9559563+02:00</SentMailDate>
+  </order>
+  <order>
+    <GuestRequestKey>0</GuestRequestKey>
+    <HostingUnitKey>1</HostingUnitKey>
+    <OrderKey>2</OrderKey>
+    <Status>ClosedCustomerUnavailability</Status>
+    <CreateDate>2020-02-13T22:15:49.2027+02:00</CreateDate>
+    <Commission>0</Commission>
+    <SentMailDate>2020-02-13T22:15:52.6183788+02:00</SentMailDate>
+  </order>
+</orders>

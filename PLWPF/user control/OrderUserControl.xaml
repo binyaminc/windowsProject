@@ -1,0 +1,55 @@
+﻿<UserControl
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:PLWPF"
+             xmlns:BE="clr-namespace:BE;assembly=BE" x:Class="PLWPF.OrderUserControl"
+             mc:Ignorable="d" Height="234.837" Width="315.791" Loaded="UserControl_Loaded_1">
+    <UserControl.Resources>
+        <CollectionViewSource x:Key="orderViewSource" d:DesignSource="{d:DesignInstance {x:Type BE:Order}, CreateList=True}"/>
+    </UserControl.Resources>
+    <Grid>
+        <Label x:Name="guestRequestNameLabel" Content="GuestRequest name:" HorizontalAlignment="Left" Margin="13,10,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="hostingUnitNameLabel" Content="HostingUnit name:" HorizontalAlignment="Left" Margin="13,36,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="guestRequestNameLabel2" Content="Label" HorizontalAlignment="Left" Margin="135,10,0,0" VerticalAlignment="Top" Width="123"/>
+        <Label x:Name="hostingUnitNameLabel2" Content="Label" HorizontalAlignment="Left" Margin="135,37,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" Width="116">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="0.92"/>
+                    <RotateTransform/>
+                    <TranslateTransform Y="-0.305"/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <Grid x:Name="orderUserControlGrid" DataContext="{StaticResource orderViewSource}" HorizontalAlignment="Left" Margin="10,62,0,0" VerticalAlignment="Top" Width="296">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto" MinWidth="118"/>
+                <ColumnDefinition Width="Auto" MinWidth="109"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Label x:Name="commissionLabel" Content="Commission:" Grid.Column="0" HorizontalAlignment="Left" Margin="3,3,0,3" Grid.Row="0" VerticalAlignment="Center" Height="26" Width="106"/>
+            <Label x:Name="commissionLabel2" Content="{Binding Commission}" Grid.Column="1" HorizontalAlignment="Left" Margin="3,3,0,3" Grid.Row="0" VerticalAlignment="Center" Height="26" Width="110"/>
+
+            <Label x:Name="createDateLabel" Content="Create Date:" Grid.Column="0" HorizontalAlignment="Left" Margin="3,3,0,3" Grid.Row="1" VerticalAlignment="Center" Height="26" Width="106"/>
+            <Label x:Name="createDateLabel2" Content="{Binding CreateDate}" Grid.Column="1" HorizontalAlignment="Left" Margin="3,3,0,3" Grid.Row="1" VerticalAlignment="Center" Height="26" Width="110"/>
+
+            <Label x:Name="orderKeyLabel" Content="Order Key:" Grid.Column="0" HorizontalAlignment="Left" Margin="3,3,0,3" Grid.Row="2" VerticalAlignment="Center" Height="26" Width="106"/>
+            <Label x:Name="orderKeyLabel2" Content="{Binding OrderKey}" Grid.Column="1" HorizontalAlignment="Left" Margin="3,3,0,3" Grid.Row="2" VerticalAlignment="Center" Height="26" Width="110"/>
+
+            <Label x:Name="sentMailDateLabel" Content="Sent Mail Date:" Grid.Column="0" HorizontalAlignment="Left" Margin="3,3,0,3" Grid.Row="3" VerticalAlignment="Center" Height="26" Width="106"/>
+            <Label x:Name="sentMailDateLabel2" Content="{Binding SentMailDate}" Grid.Column="1" HorizontalAlignment="Left" Margin="3,3,0,3" Grid.Row="3" VerticalAlignment="Center" Height="26" Width="111"/>
+
+            <Label x:Name="statusLabel" Content="Status:" Grid.Column="0" HorizontalAlignment="Left" Margin="3,3,0,3" Grid.Row="4" VerticalAlignment="Center" Height="26" Width="90"/>
+            <Label x:Name="statusLabel2" Content="{Binding Status}" Grid.Column="1" Margin="3,3,-65,3" Grid.Row="4" VerticalAlignment="Center" Height="26" HorizontalAlignment="Left" Width="174"/>
+        </Grid>
+
+    </Grid>
+</UserControl>

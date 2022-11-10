@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<ArrayOfGuestRequest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GuestRequest>
+    <GuestRequestKey>3</GuestRequestKey>
+    <PrivateName>yhj</PrivateName>
+    <FamilyName>hjmh</FamilyName>
+    <MailAddress>hgjmh@</MailAddress>
+    <Status>Active</Status>
+    <RegistrationDate>2020-02-13T22:01:32.9101234+02:00</RegistrationDate>
+    <EntryDate>2020-02-14T00:00:00</EntryDate>
+    <ReleaseDate>2020-02-26T00:00:00</ReleaseDate>
+    <Area>All</Area>
+    <SubArea />
+    <Type>Hotel</Type>
+    <Adults>2</Adults>
+    <Children>5</Children>
+    <Pool>Optional</Pool>
+    <Jacuzzi>Optional</Jacuzzi>
+    <Garden>Optional</Garden>
+    <ChildrenAttractions>Optional</ChildrenAttractions>
+  </GuestRequest>
+  <GuestRequest>
+    <GuestRequestKey>0</GuestRequestKey>
+    <PrivateName>Binyamin</PrivateName>
+    <FamilyName>Cohen</FamilyName>
+    <MailAddress>cbhnhifvi@gmail.com</MailAddress>
+    <Status>ClosedBecauseOfTime</Status>
+    <RegistrationDate>2020-02-13T17:41:26.7436847+02:00</RegistrationDate>
+    <EntryDate>2020-02-13T00:00:00</EntryDate>
+    <ReleaseDate>2020-02-17T00:00:00</ReleaseDate>
+    <Area>All</Area>
+    <SubArea />
+    <Type>Zimmer</Type>
+    <Adults>2</Adults>
+    <Children>4</Children>
+    <Pool>Optional</Pool>
+    <Jacuzzi>Optional</Jacuzzi>
+    <Garden>Optional</Garden>
+    <ChildrenAttractions>Optional</ChildrenAttractions>
+  </GuestRequest>
+</ArrayOfGuestRequest>

@@ -1,0 +1,142 @@
+﻿<Window x:Class="PLWPF.order.Orders"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLWPF.order"
+        mc:Ignorable="d"
+        Title="Orders" Height="422.844" Width="690.413">
+    <Window.Resources>
+        <Style x:Key="RoundCorner" TargetType="{x:Type Button}">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Grid x:Name="grid">
+                            <Border x:Name="border" CornerRadius="8" BorderBrush="DarkGreen" BorderThickness="2">
+                                <Border.Background>
+                                    <RadialGradientBrush GradientOrigin="0.496,1.052">
+                                        <RadialGradientBrush.RelativeTransform>
+                                            <TransformGroup>
+                                                <ScaleTransform CenterX="0.5" CenterY="0.5" ScaleX="1.5" ScaleY="1.5"/>
+                                                <TranslateTransform X="0.02" Y="0.3"/>
+                                            </TransformGroup>
+                                        </RadialGradientBrush.RelativeTransform>
+                                        <GradientStop Offset="1" Color="#00000000"/>
+                                        <GradientStop Offset="0.3" Color="#FFFFFFFF"/>
+                                    </RadialGradientBrush>
+                                </Border.Background>
+                                <ContentPresenter HorizontalAlignment="Center"
+                                          VerticalAlignment="Center">
+                                </ContentPresenter>
+                            </Border>
+
+                        </Grid>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsPressed" Value="True">
+                                <Setter Property="Background" TargetName="border">
+                                    <Setter.Value>
+                                        <RadialGradientBrush GradientOrigin="0.496,1.052">
+                                            <RadialGradientBrush.RelativeTransform>
+                                                <TransformGroup>
+                                                    <ScaleTransform CenterX="0.5" CenterY="0.5" ScaleX="1.5" ScaleY="1.5"/>
+                                                    <TranslateTransform X="0.02" Y="0.3"/>
+                                                </TransformGroup>
+                                            </RadialGradientBrush.RelativeTransform>
+                                            <GradientStop Color="#00000000" Offset="1"/>
+                                            <GradientStop Color="#FF303030" Offset="0.3"/>
+                                        </RadialGradientBrush>
+                                    </Setter.Value>
+                                </Setter>
+                            </Trigger>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="BorderBrush" TargetName="border" Value="SeaGreen"/>
+                            </Trigger>
+                            <Trigger Property="IsEnabled" Value="False">
+                                <Setter Property="Opacity" TargetName="grid" Value="0.25"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <LinearGradientBrush x:Key="goBackLinearGradientBrush">
+            <GradientStop Color="LightSkyBlue"                     
+                          Offset="0" />
+            <GradientStop Color="LightSlateGray"                     
+                          Offset="0.5" />
+            <GradientStop Color="LightBlue"                     
+                          Offset="1" />
+        </LinearGradientBrush>
+
+    </Window.Resources>
+
+    <Grid>
+        <Grid HorizontalAlignment="Left" Height="311" Margin="297,49,0,0" VerticalAlignment="Top" Width="358">
+            <ScrollViewer HorizontalAlignment="Stretch" Height="auto" VerticalAlignment="Stretch" Width="auto">
+                <StackPanel x:Name="SP" Height="auto" Width="auto"/>
+            </ScrollViewer>
+        </Grid>
+
+        <Label x:Name="orderIndexLabel1" Content="Order index:" HorizontalAlignment="Left" Margin="47,49,0,0" VerticalAlignment="Top"/>
+        <ComboBox x:Name="orderNameCDComboBox" HorizontalAlignment="Left" Margin="141,53,0,0" ItemsSource="{Binding}" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="closingTypeLabel" Content="Closing type:" HorizontalAlignment="Left" Margin="47,76,0,0" VerticalAlignment="Top"/>
+        <ComboBox x:Name="closingTypeCDComboBox"  HorizontalAlignment="Left" Margin="141,80,0,0" VerticalAlignment="Top" Width="120">
+            <ComboBoxItem>ClosedCustomerUnavailability</ComboBoxItem>
+            <ComboBoxItem>ClosedByCustomer</ComboBoxItem>
+            <ComboBox.Style>
+                <Style>
+                    <Style.Triggers>
+                        <DataTrigger Binding="{Binding ElementName=orderNameCDComboBox, Path=Text}" Value="">
+                            <Setter Property="ComboBox.IsEnabled" Value="false"/>
+                        </DataTrigger>
+                    </Style.Triggers>
+                </Style>
+            </ComboBox.Style>
+        </ComboBox>
+        <Button x:Name="CloseDealButton" Content="Close deal" HorizontalAlignment="Left" Margin="47,120,0,0" VerticalAlignment="Top" Width="100" Click="closeDealButton_Click">
+            <Button.Style>
+                <Style>
+                    <Style.Triggers>
+                        <DataTrigger Binding="{Binding ElementName=closingTypeCDComboBox, Path=Text}" Value="">
+                            <Setter Property="Button.IsEnabled" Value="false"/>
+                        </DataTrigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+        </Button>
+        <Label Content="___________________________________________________________________________________" HorizontalAlignment="Left" Margin="47,144,0,0" VerticalAlignment="Top"/>
+
+        <Label x:Name="orderIndexLabel2" Content="Order index:" HorizontalAlignment="Left" Margin="47,175,0,0" VerticalAlignment="Top"/>
+        <ComboBox Name="orderNameSIComboBox" HorizontalAlignment="Left" Margin="141,179,0,0" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="SendInvitationButton" Content="Send invitation" HorizontalAlignment="Left" Margin="47,217,0,0" VerticalAlignment="Top" Width="100" Click="sendInvitationButton_Click">
+            <Button.Style>
+                <Style>
+                    <Style.Triggers>
+                        <DataTrigger Binding="{Binding ElementName=orderNameSIComboBox, Path=Text}" Value="">
+                            <Setter Property="Button.IsEnabled" Value="false"/>
+                        </DataTrigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+        </Button>
+        <Button x:Name="deleteOrderButton" Content="Delete order" HorizontalAlignment="Left" Margin="47,250,0,0" VerticalAlignment="Top" Width="100" Click="deleteOrderButton_Click">
+            <Button.Style>
+                <Style>
+                    <Style.Triggers>
+                        <DataTrigger Binding="{Binding ElementName=orderNameSIComboBox, Path=Text}" Value="">
+                            <Setter Property="Button.IsEnabled" Value="false"/>
+                        </DataTrigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+        </Button>
+        <Label Content="___________________________________________________________________________________" HorizontalAlignment="Left" Margin="47,275,0,0" VerticalAlignment="Top"/>
+
+        <Button x:Name="addOrderButton" Content="Add order" Style="{StaticResource RoundCorner}" HorizontalAlignment="Left" Margin="47,320,0,0" VerticalAlignment="Top" Width="100" Click="AddOrderButton"/>
+
+        <Button Content="&lt;" Background="{StaticResource goBackLinearGradientBrush}" HorizontalAlignment="Left" Margin="10,363,0,0" VerticalAlignment="Top" Width="37" Height="19" Click="goBackButton"/>
+        
+
+    </Grid>
+</Window>

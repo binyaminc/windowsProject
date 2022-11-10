@@ -1,0 +1,52 @@
+F:\orig2\source\repos\DAL\Exceptions\bin\Debug\Exceptions.dll
+F:\orig2\source\repos\DAL\Exceptions\bin\Debug\Exceptions.pdb
+F:\orig2\source\repos\DAL\Exceptions\obj\Debug\Exceptions.csprojAssemblyReference.cache
+F:\orig2\source\repos\DAL\Exceptions\obj\Debug\Exceptions.dll
+F:\orig2\source\repos\DAL\Exceptions\obj\Debug\Exceptions.pdb
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\Exceptions\bin\Debug\Exceptions.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\Exceptions\obj\Debug\Exceptions.csprojAssemblyReference.cache
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\Exceptions\obj\Debug\Exceptions.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\Exceptions\obj\Debug\Exceptions.pdb
+C:\Users\Benjemin\Desktop\TheProject\Exceptions\bin\Debug\Exceptions.dll
+C:\Users\Benjemin\Desktop\TheProject\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\Benjemin\Desktop\TheProject\Exceptions\obj\Debug\Exceptions.csprojAssemblyReference.cache
+C:\Users\Benjemin\Desktop\TheProject\Exceptions\obj\Debug\Exceptions.dll
+C:\Users\Benjemin\Desktop\TheProject\Exceptions\obj\Debug\Exceptions.pdb
+C:\Users\bicohen\Downloads\TheProject\Exceptions\bin\Debug\Exceptions.dll
+C:\Users\bicohen\Downloads\TheProject\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\bicohen\Downloads\TheProject\Exceptions\obj\Debug\Exceptions.csprojAssemblyReference.cache
+C:\Users\bicohen\Downloads\TheProject\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\bicohen\Downloads\TheProject\Exceptions\obj\Debug\Exceptions.dll
+C:\Users\bicohen\Downloads\TheProject\Exceptions\obj\Debug\Exceptions.pdb
+Z:\מיני פרוייקט במערכות חלונות\TheProject\Exceptions\bin\Debug\Exceptions.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\Exceptions\bin\Debug\Exceptions.pdb
+Z:\מיני פרוייקט במערכות חלונות\TheProject\Exceptions\obj\Debug\Exceptions.csprojAssemblyReference.cache
+Z:\מיני פרוייקט במערכות חלונות\TheProject\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+Z:\מיני פרוייקט במערכות חלונות\TheProject\Exceptions\obj\Debug\Exceptions.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\Exceptions\obj\Debug\Exceptions.pdb
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\Exceptions\bin\Debug\Exceptions.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\Exceptions\obj\Debug\Exceptions.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\Exceptions\obj\Debug\Exceptions.pdb
+C:\Users\Benjemin\Downloads\TheProject\Exceptions\bin\Debug\Exceptions.dll
+C:\Users\Benjemin\Downloads\TheProject\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\Benjemin\Downloads\TheProject\Exceptions\obj\Debug\Exceptions.csprojAssemblyReference.cache
+C:\Users\Benjemin\Downloads\TheProject\Exceptions\obj\Debug\Exceptions.dll
+C:\Users\Benjemin\Downloads\TheProject\Exceptions\obj\Debug\Exceptions.pdb
+E:\TheProject\Exceptions\bin\Debug\Exceptions.dll
+E:\TheProject\Exceptions\bin\Debug\Exceptions.pdb
+E:\TheProject\Exceptions\obj\Debug\Exceptions.dll
+E:\TheProject\Exceptions\obj\Debug\Exceptions.pdb
+E:\TheProject\Exceptions\obj\Debug\Exceptions.csprojAssemblyReference.cache
+D:\visual studio projects\C#_windowsProject_finalVersion\Exceptions\bin\Debug\Exceptions.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\Exceptions\bin\Debug\Exceptions.pdb
+D:\visual studio projects\C#_windowsProject_finalVersion\Exceptions\obj\Debug\Exceptions.csprojAssemblyReference.cache
+D:\visual studio projects\C#_windowsProject_finalVersion\Exceptions\obj\Debug\Exceptions.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\Exceptions\obj\Debug\Exceptions.pdb
+D:\visual_studio_projects\C#_windowsProject_finalVersion\Exceptions\bin\Debug\Exceptions.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\Exceptions\bin\Debug\Exceptions.pdb
+D:\visual_studio_projects\C#_windowsProject_finalVersion\Exceptions\obj\Debug\Exceptions.csprojAssemblyReference.cache
+D:\visual_studio_projects\C#_windowsProject_finalVersion\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+D:\visual_studio_projects\C#_windowsProject_finalVersion\Exceptions\obj\Debug\Exceptions.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\Exceptions\obj\Debug\Exceptions.pdb

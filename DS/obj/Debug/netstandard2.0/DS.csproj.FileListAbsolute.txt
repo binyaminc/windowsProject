@@ -1,0 +1,216 @@
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DS\bin\Debug\netstandard2.0\DS.deps.json
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DS\bin\Debug\netstandard2.0\DS.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DS\bin\Debug\netstandard2.0\DS.pdb
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DS\bin\Debug\netstandard2.0\BE.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DS\bin\Debug\netstandard2.0\BE.pdb
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DS\obj\Debug\netstandard2.0\DS.csprojAssemblyReference.cache
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DS\obj\Debug\netstandard2.0\DS.AssemblyInfoInputs.cache
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DS\obj\Debug\netstandard2.0\DS.AssemblyInfo.cs
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DS\obj\Debug\netstandard2.0\DS.csproj.CopyComplete
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DS\obj\Debug\netstandard2.0\DS.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\source\source\repos\DAL\DS\obj\Debug\netstandard2.0\DS.pdb
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DS\bin\Debug\netstandard2.0\DS.deps.json
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DS\bin\Debug\netstandard2.0\DS.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DS\bin\Debug\netstandard2.0\DS.pdb
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DS\bin\Debug\netstandard2.0\BE.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DS\bin\Debug\netstandard2.0\BE.pdb
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DS\obj\Debug\netstandard2.0\DS.csprojAssemblyReference.cache
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DS\obj\Debug\netstandard2.0\DS.csproj.CoreCompileInputs.cache
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DS\obj\Debug\netstandard2.0\DS.AssemblyInfoInputs.cache
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DS\obj\Debug\netstandard2.0\DS.AssemblyInfo.cs
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DS\obj\Debug\netstandard2.0\DS.csproj.CopyComplete
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DS\obj\Debug\netstandard2.0\DS.dll
+Z:\מיני פרוייקט במערכות חלונות\source\source\repos\DAL\DS\obj\Debug\netstandard2.0\DS.pdb
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DS\bin\Debug\netstandard2.0\DS.deps.json
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DS\bin\Debug\netstandard2.0\DS.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DS\bin\Debug\netstandard2.0\DS.pdb
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DS\bin\Debug\netstandard2.0\BE.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DS\bin\Debug\netstandard2.0\BE.pdb
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DS\obj\Debug\netstandard2.0\DS.csprojAssemblyReference.cache
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DS\obj\Debug\netstandard2.0\DS.csproj.CoreCompileInputs.cache
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DS\obj\Debug\netstandard2.0\DS.AssemblyInfoInputs.cache
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DS\obj\Debug\netstandard2.0\DS.AssemblyInfo.cs
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DS\obj\Debug\netstandard2.0\DS.csproj.CopyComplete
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DS\obj\Debug\netstandard2.0\DS.dll
+C:\Users\bicohen\Downloads\source\source\repos\DAL\DS\obj\Debug\netstandard2.0\DS.pdb
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DS\bin\Debug\netstandard2.0\DS.deps.json
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DS\bin\Debug\netstandard2.0\DS.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DS\bin\Debug\netstandard2.0\DS.pdb
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DS\bin\Debug\netstandard2.0\BE.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DS\bin\Debug\netstandard2.0\BE.pdb
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DS\obj\Debug\netstandard2.0\DS.csprojAssemblyReference.cache
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DS\obj\Debug\netstandard2.0\DS.csproj.CoreCompileInputs.cache
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DS\obj\Debug\netstandard2.0\DS.AssemblyInfoInputs.cache
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DS\obj\Debug\netstandard2.0\DS.AssemblyInfo.cs
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DS\obj\Debug\netstandard2.0\DS.csproj.CopyComplete
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DS\obj\Debug\netstandard2.0\DS.dll
+C:\Users\sdadoun\Desktop\source\source\repos\DAL\DS\obj\Debug\netstandard2.0\DS.pdb
+E:\orig\source\repos\DAL\DS\bin\Debug\netstandard2.0\DS.deps.json
+E:\orig\source\repos\DAL\DS\bin\Debug\netstandard2.0\DS.dll
+E:\orig\source\repos\DAL\DS\bin\Debug\netstandard2.0\DS.pdb
+E:\orig\source\repos\DAL\DS\bin\Debug\netstandard2.0\BE.dll
+E:\orig\source\repos\DAL\DS\bin\Debug\netstandard2.0\BE.pdb
+E:\orig\source\repos\DAL\DS\obj\Debug\netstandard2.0\DS.csprojAssemblyReference.cache
+E:\orig\source\repos\DAL\DS\obj\Debug\netstandard2.0\DS.AssemblyInfoInputs.cache
+E:\orig\source\repos\DAL\DS\obj\Debug\netstandard2.0\DS.AssemblyInfo.cs
+E:\orig\source\repos\DAL\DS\obj\Debug\netstandard2.0\DS.csproj.CopyComplete
+E:\orig\source\repos\DAL\DS\obj\Debug\netstandard2.0\DS.dll
+E:\orig\source\repos\DAL\DS\obj\Debug\netstandard2.0\DS.pdb
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DS\bin\Debug\netstandard2.0\DS.deps.json
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DS\bin\Debug\netstandard2.0\DS.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DS\bin\Debug\netstandard2.0\DS.pdb
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DS\bin\Debug\netstandard2.0\BE.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DS\bin\Debug\netstandard2.0\BE.pdb
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DS\obj\Debug\netstandard2.0\DS.csprojAssemblyReference.cache
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DS\obj\Debug\netstandard2.0\DS.AssemblyInfoInputs.cache
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DS\obj\Debug\netstandard2.0\DS.AssemblyInfo.cs
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DS\obj\Debug\netstandard2.0\DS.csproj.CopyComplete
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DS\obj\Debug\netstandard2.0\DS.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig\source\repos\DAL\DS\obj\Debug\netstandard2.0\DS.pdb
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DS\bin\Debug\netstandard2.0\DS.deps.json
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DS\bin\Debug\netstandard2.0\DS.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DS\bin\Debug\netstandard2.0\DS.pdb
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DS\bin\Debug\netstandard2.0\BE.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DS\bin\Debug\netstandard2.0\BE.pdb
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DS\obj\Debug\netstandard2.0\DS.csprojAssemblyReference.cache
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DS\obj\Debug\netstandard2.0\DS.csproj.CoreCompileInputs.cache
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DS\obj\Debug\netstandard2.0\DS.AssemblyInfoInputs.cache
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DS\obj\Debug\netstandard2.0\DS.AssemblyInfo.cs
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DS\obj\Debug\netstandard2.0\DS.csproj.CopyComplete
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DS\obj\Debug\netstandard2.0\DS.dll
+C:\Users\bicohen\Desktop\orig\source\repos\DAL\DS\obj\Debug\netstandard2.0\DS.pdb
+F:\orig\source\repos\DAL\DS\bin\Debug\netstandard2.0\DS.deps.json
+F:\orig\source\repos\DAL\DS\bin\Debug\netstandard2.0\DS.dll
+F:\orig\source\repos\DAL\DS\bin\Debug\netstandard2.0\DS.pdb
+F:\orig\source\repos\DAL\DS\bin\Debug\netstandard2.0\BE.dll
+F:\orig\source\repos\DAL\DS\bin\Debug\netstandard2.0\BE.pdb
+F:\orig\source\repos\DAL\DS\obj\Debug\netstandard2.0\DS.csprojAssemblyReference.cache
+F:\orig\source\repos\DAL\DS\obj\Debug\netstandard2.0\DS.AssemblyInfoInputs.cache
+F:\orig\source\repos\DAL\DS\obj\Debug\netstandard2.0\DS.AssemblyInfo.cs
+F:\orig\source\repos\DAL\DS\obj\Debug\netstandard2.0\DS.csproj.CopyComplete
+F:\orig\source\repos\DAL\DS\obj\Debug\netstandard2.0\DS.dll
+F:\orig\source\repos\DAL\DS\obj\Debug\netstandard2.0\DS.pdb
+F:\orig2\source\repos\DAL\DS\bin\Debug\netstandard2.0\DS.deps.json
+F:\orig2\source\repos\DAL\DS\bin\Debug\netstandard2.0\DS.dll
+F:\orig2\source\repos\DAL\DS\bin\Debug\netstandard2.0\DS.pdb
+F:\orig2\source\repos\DAL\DS\bin\Debug\netstandard2.0\BE.dll
+F:\orig2\source\repos\DAL\DS\bin\Debug\netstandard2.0\BE.pdb
+F:\orig2\source\repos\DAL\DS\obj\Debug\netstandard2.0\DS.AssemblyInfoInputs.cache
+F:\orig2\source\repos\DAL\DS\obj\Debug\netstandard2.0\DS.AssemblyInfo.cs
+F:\orig2\source\repos\DAL\DS\obj\Debug\netstandard2.0\DS.csproj.CopyComplete
+F:\orig2\source\repos\DAL\DS\obj\Debug\netstandard2.0\DS.dll
+F:\orig2\source\repos\DAL\DS\obj\Debug\netstandard2.0\DS.pdb
+F:\orig2\source\repos\DAL\DS\obj\Debug\netstandard2.0\DS.csprojAssemblyReference.cache
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DS\bin\Debug\netstandard2.0\DS.deps.json
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DS\bin\Debug\netstandard2.0\DS.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DS\bin\Debug\netstandard2.0\DS.pdb
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DS\bin\Debug\netstandard2.0\BE.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DS\bin\Debug\netstandard2.0\BE.pdb
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DS\obj\Debug\netstandard2.0\DS.csprojAssemblyReference.cache
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DS\obj\Debug\netstandard2.0\DS.AssemblyInfoInputs.cache
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DS\obj\Debug\netstandard2.0\DS.AssemblyInfo.cs
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DS\obj\Debug\netstandard2.0\DS.csproj.CopyComplete
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DS\obj\Debug\netstandard2.0\DS.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\orig2\source\repos\DAL\DS\obj\Debug\netstandard2.0\DS.pdb
+C:\Users\Benjemin\Desktop\TheProject\DS\bin\Debug\netstandard2.0\DS.deps.json
+C:\Users\Benjemin\Desktop\TheProject\DS\bin\Debug\netstandard2.0\DS.dll
+C:\Users\Benjemin\Desktop\TheProject\DS\bin\Debug\netstandard2.0\DS.pdb
+C:\Users\Benjemin\Desktop\TheProject\DS\bin\Debug\netstandard2.0\BE.dll
+C:\Users\Benjemin\Desktop\TheProject\DS\bin\Debug\netstandard2.0\BE.pdb
+C:\Users\Benjemin\Desktop\TheProject\DS\obj\Debug\netstandard2.0\DS.csprojAssemblyReference.cache
+C:\Users\Benjemin\Desktop\TheProject\DS\obj\Debug\netstandard2.0\DS.AssemblyInfoInputs.cache
+C:\Users\Benjemin\Desktop\TheProject\DS\obj\Debug\netstandard2.0\DS.AssemblyInfo.cs
+C:\Users\Benjemin\Desktop\TheProject\DS\obj\Debug\netstandard2.0\DS.csproj.CopyComplete
+C:\Users\Benjemin\Desktop\TheProject\DS\obj\Debug\netstandard2.0\DS.dll
+C:\Users\Benjemin\Desktop\TheProject\DS\obj\Debug\netstandard2.0\DS.pdb
+C:\Users\bicohen\Downloads\TheProject\DS\bin\Debug\netstandard2.0\DS.deps.json
+C:\Users\bicohen\Downloads\TheProject\DS\bin\Debug\netstandard2.0\DS.dll
+C:\Users\bicohen\Downloads\TheProject\DS\bin\Debug\netstandard2.0\DS.pdb
+C:\Users\bicohen\Downloads\TheProject\DS\bin\Debug\netstandard2.0\BE.dll
+C:\Users\bicohen\Downloads\TheProject\DS\bin\Debug\netstandard2.0\BE.pdb
+C:\Users\bicohen\Downloads\TheProject\DS\obj\Debug\netstandard2.0\DS.csprojAssemblyReference.cache
+C:\Users\bicohen\Downloads\TheProject\DS\obj\Debug\netstandard2.0\DS.csproj.CoreCompileInputs.cache
+C:\Users\bicohen\Downloads\TheProject\DS\obj\Debug\netstandard2.0\DS.AssemblyInfoInputs.cache
+C:\Users\bicohen\Downloads\TheProject\DS\obj\Debug\netstandard2.0\DS.AssemblyInfo.cs
+C:\Users\bicohen\Downloads\TheProject\DS\obj\Debug\netstandard2.0\DS.csproj.CopyComplete
+C:\Users\bicohen\Downloads\TheProject\DS\obj\Debug\netstandard2.0\DS.dll
+C:\Users\bicohen\Downloads\TheProject\DS\obj\Debug\netstandard2.0\DS.pdb
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DS\bin\Debug\netstandard2.0\DS.deps.json
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DS\bin\Debug\netstandard2.0\DS.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DS\bin\Debug\netstandard2.0\DS.pdb
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DS\bin\Debug\netstandard2.0\BE.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DS\bin\Debug\netstandard2.0\BE.pdb
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DS\obj\Debug\netstandard2.0\DS.csprojAssemblyReference.cache
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DS\obj\Debug\netstandard2.0\DS.csproj.CoreCompileInputs.cache
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DS\obj\Debug\netstandard2.0\DS.AssemblyInfoInputs.cache
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DS\obj\Debug\netstandard2.0\DS.AssemblyInfo.cs
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DS\obj\Debug\netstandard2.0\DS.csproj.CopyComplete
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DS\obj\Debug\netstandard2.0\DS.dll
+Z:\מיני פרוייקט במערכות חלונות\TheProject\DS\obj\Debug\netstandard2.0\DS.pdb
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DS\bin\Debug\netstandard2.0\DS.deps.json
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DS\bin\Debug\netstandard2.0\DS.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DS\bin\Debug\netstandard2.0\DS.pdb
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DS\bin\Debug\netstandard2.0\BE.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DS\bin\Debug\netstandard2.0\BE.pdb
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DS\obj\Debug\netstandard2.0\DS.csprojAssemblyReference.cache
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DS\obj\Debug\netstandard2.0\DS.AssemblyInfoInputs.cache
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DS\obj\Debug\netstandard2.0\DS.AssemblyInfo.cs
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DS\obj\Debug\netstandard2.0\DS.csproj.CopyComplete
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DS\obj\Debug\netstandard2.0\DS.dll
+C:\Users\אליה קופלר\OneDrive\שולחן העבודה\לימודים\תואר\מיניפ\TheProject\DS\obj\Debug\netstandard2.0\DS.pdb
+C:\Users\Benjemin\Downloads\TheProject\DS\bin\Debug\netstandard2.0\DS.deps.json
+C:\Users\Benjemin\Downloads\TheProject\DS\bin\Debug\netstandard2.0\DS.dll
+C:\Users\Benjemin\Downloads\TheProject\DS\bin\Debug\netstandard2.0\DS.pdb
+C:\Users\Benjemin\Downloads\TheProject\DS\bin\Debug\netstandard2.0\BE.dll
+C:\Users\Benjemin\Downloads\TheProject\DS\bin\Debug\netstandard2.0\BE.pdb
+C:\Users\Benjemin\Downloads\TheProject\DS\obj\Debug\netstandard2.0\DS.csprojAssemblyReference.cache
+C:\Users\Benjemin\Downloads\TheProject\DS\obj\Debug\netstandard2.0\DS.AssemblyInfoInputs.cache
+C:\Users\Benjemin\Downloads\TheProject\DS\obj\Debug\netstandard2.0\DS.AssemblyInfo.cs
+C:\Users\Benjemin\Downloads\TheProject\DS\obj\Debug\netstandard2.0\DS.csproj.CopyComplete
+C:\Users\Benjemin\Downloads\TheProject\DS\obj\Debug\netstandard2.0\DS.dll
+C:\Users\Benjemin\Downloads\TheProject\DS\obj\Debug\netstandard2.0\DS.pdb
+E:\TheProject\DS\bin\Debug\netstandard2.0\DS.deps.json
+E:\TheProject\DS\bin\Debug\netstandard2.0\DS.dll
+E:\TheProject\DS\bin\Debug\netstandard2.0\DS.pdb
+E:\TheProject\DS\bin\Debug\netstandard2.0\BE.dll
+E:\TheProject\DS\bin\Debug\netstandard2.0\BE.pdb
+E:\TheProject\DS\obj\Debug\netstandard2.0\DS.csprojAssemblyReference.cache
+E:\TheProject\DS\obj\Debug\netstandard2.0\DS.AssemblyInfoInputs.cache
+E:\TheProject\DS\obj\Debug\netstandard2.0\DS.AssemblyInfo.cs
+E:\TheProject\DS\obj\Debug\netstandard2.0\DS.csproj.CopyComplete
+E:\TheProject\DS\obj\Debug\netstandard2.0\DS.dll
+E:\TheProject\DS\obj\Debug\netstandard2.0\DS.pdb
+F:\TheProject\DS\bin\Debug\netstandard2.0\DS.deps.json
+F:\TheProject\DS\bin\Debug\netstandard2.0\DS.dll
+F:\TheProject\DS\bin\Debug\netstandard2.0\DS.pdb
+F:\TheProject\DS\bin\Debug\netstandard2.0\BE.dll
+F:\TheProject\DS\bin\Debug\netstandard2.0\BE.pdb
+F:\TheProject\DS\obj\Debug\netstandard2.0\DS.csprojAssemblyReference.cache
+F:\TheProject\DS\obj\Debug\netstandard2.0\DS.AssemblyInfoInputs.cache
+F:\TheProject\DS\obj\Debug\netstandard2.0\DS.AssemblyInfo.cs
+F:\TheProject\DS\obj\Debug\netstandard2.0\DS.csproj.CopyComplete
+F:\TheProject\DS\obj\Debug\netstandard2.0\DS.dll
+F:\TheProject\DS\obj\Debug\netstandard2.0\DS.pdb
+D:\visual studio projects\C#_windowsProject_finalVersion\DS\bin\Debug\netstandard2.0\DS.deps.json
+D:\visual studio projects\C#_windowsProject_finalVersion\DS\bin\Debug\netstandard2.0\DS.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DS\bin\Debug\netstandard2.0\DS.pdb
+D:\visual studio projects\C#_windowsProject_finalVersion\DS\bin\Debug\netstandard2.0\BE.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DS\bin\Debug\netstandard2.0\BE.pdb
+D:\visual studio projects\C#_windowsProject_finalVersion\DS\obj\Debug\netstandard2.0\DS.csprojAssemblyReference.cache
+D:\visual studio projects\C#_windowsProject_finalVersion\DS\obj\Debug\netstandard2.0\DS.AssemblyInfoInputs.cache
+D:\visual studio projects\C#_windowsProject_finalVersion\DS\obj\Debug\netstandard2.0\DS.AssemblyInfo.cs
+D:\visual studio projects\C#_windowsProject_finalVersion\DS\obj\Debug\netstandard2.0\DS.csproj.CopyComplete
+D:\visual studio projects\C#_windowsProject_finalVersion\DS\obj\Debug\netstandard2.0\DS.dll
+D:\visual studio projects\C#_windowsProject_finalVersion\DS\obj\Debug\netstandard2.0\DS.pdb
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DS\bin\Debug\netstandard2.0\DS.deps.json
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DS\bin\Debug\netstandard2.0\DS.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DS\bin\Debug\netstandard2.0\DS.pdb
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DS\bin\Debug\netstandard2.0\BE.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DS\bin\Debug\netstandard2.0\BE.pdb
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DS\obj\Debug\netstandard2.0\DS.csprojAssemblyReference.cache
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DS\obj\Debug\netstandard2.0\DS.AssemblyInfoInputs.cache
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DS\obj\Debug\netstandard2.0\DS.AssemblyInfo.cs
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DS\obj\Debug\netstandard2.0\DS.csproj.CoreCompileInputs.cache
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DS\obj\Debug\netstandard2.0\DS.csproj.CopyComplete
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DS\obj\Debug\netstandard2.0\DS.dll
+D:\visual_studio_projects\C#_windowsProject_finalVersion\DS\obj\Debug\netstandard2.0\DS.pdb

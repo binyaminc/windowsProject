@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<keys>
+  <HostKey>1</HostKey>
+  <GuestRequestKey>4</GuestRequestKey>
+  <HostingUnitKey>2</HostingUnitKey>
+  <OrderKey>3</OrderKey>
+</keys>

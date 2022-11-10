@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<orders>
+  <order>
+    <GuestRequestKey>1</GuestRequestKey>
+    <HostingUnitKey>2</HostingUnitKey>
+    <OrderKey>2</OrderKey>
+    <Status>NotYetTreated</Status>
+    <CreateDate>2019-01-05T00:00:00</CreateDate>
+    <Commission>10</Commission>
+    <SentMailDate>2019-03-01T00:00:00</SentMailDate>
+  </order>
+  <order>
+    <GuestRequestKey>1</GuestRequestKey>
+    <HostingUnitKey>1</HostingUnitKey>
+    <OrderKey>1</OrderKey>
+    <Status>NotYetTreated</Status>
+    <CreateDate>2019-01-05T00:00:00</CreateDate>
+    <Commission>10</Commission>
+    <SentMailDate>2019-03-01T00:00:00</SentMailDate>
+  </order>
+</orders>
